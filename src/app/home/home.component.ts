@@ -9,6 +9,11 @@ export class HomeComponent implements OnInit {
 
   constructor() { }
 
+  gall_btn = [
+    "Grafika 2D",
+    "Grafika 3D"
+  ]
+
   ngOnInit() {
   }
 
